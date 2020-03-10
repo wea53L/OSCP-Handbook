@@ -15,4 +15,3 @@
 
 
 ## [Linux Privilege Escalation](Linux/README.md)
-
